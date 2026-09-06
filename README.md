@@ -9,10 +9,11 @@
   </p>
 
   <p align="center">
+    <a href="https://deepbisen-06.github.io/Deep-Bisen-Portfolio/"><img src="https://img.shields.io/badge/Live_Demo-deepbisen--06.github.io-8A2BE2?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
     <a href="https://github.com/deepbisen-06"><img src="https://img.shields.io/badge/GitHub-deepbisen--06-181717?style=flat-square&logo=github" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/deep-bisen-187176341"><img src="https://img.shields.io/badge/LinkedIn-Deep_Bisen-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
     <a href="mailto:deepbisen2006@gmail.com"><img src="https://img.shields.io/badge/Email-deepbisen2006%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" alt="Status" />
   </p>
 
 </div>
